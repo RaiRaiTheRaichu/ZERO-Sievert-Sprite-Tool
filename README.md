@@ -10,6 +10,8 @@ This tool may also work for other Game Maker engine games, but no support is gua
 
 * Python 3.11.0
 
+You only need Python if you are not downloading the compiled binary. Otherwise, substitute '.py' with '.exe' in the following instructions.
+
 ### How To Use ###
 
 - Extract 'ZS_sprite_tool.py' to an unprotected folder (NOT within Program Files, etc)

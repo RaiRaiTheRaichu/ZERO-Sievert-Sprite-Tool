@@ -1,4 +1,7 @@
 *.backup
 *.win
 *.png
+*.spec
 output/*
+dist/
+build/
