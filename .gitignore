@@ -1,0 +1,4 @@
+*.backup
+*.win
+*.png
+output/*
